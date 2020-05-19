@@ -1,0 +1,4 @@
+itemblacklist: ["AIR","ATTACHED_MELON_STEM", "ATTACHED_PUMPKIN_STEM", "BARRIER", "BUBBLE_COLUMN", "COMMAND_BLOCK", "COMMAND_BLOCK_MINECART", "DEBUG_STICK"] #These ones will break something, but feel free to add your own, based on Bukkit Materials
+maxDropValue: 100 #max amount of items that can drop at once
+minDropValue: 1 #Min amount of items that can drop at once
+debugMode: "true"

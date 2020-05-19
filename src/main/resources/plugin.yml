@@ -1,0 +1,7 @@
+name: RandomDropper
+version: ${project.version}
+main: mistaomega.randomdropper.RandomDropper
+api-version: 1.13
+prefix: RandomDropper
+authors: [MistaOmega]
+description: Drops a random item and random count when an item is broken
